@@ -1,0 +1,16 @@
+# System
+.DS_Store
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Javascript/Next.js
+node_modules/
+.next/
+build/
+dist/
+.vercel

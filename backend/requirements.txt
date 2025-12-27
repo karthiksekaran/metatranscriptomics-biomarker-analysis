@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+openpyxl
+python-multipart
+httpx
+jinja2
